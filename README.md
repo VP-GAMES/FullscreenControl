@@ -1,7 +1,7 @@
 # FullscreenControl
 FullscreenControl use  Alt + Enter to switch between fullscreen and window mode (plugin for Godot Engine 4.+)
 
-Version: 0.0.2 Tested with godot 4.+
+Version: 0.0.3 Tested with godot 4.+
 
 ## Support me
 [via PayPal](https://www.paypal.com/donate/?hosted_button_id=UMAALFQWEKCJ2)
